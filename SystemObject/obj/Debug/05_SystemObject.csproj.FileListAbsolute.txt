@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\SystemObject\bin\Debug\SystemObject.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\SystemObject\bin\Debug\SystemObject.exe
+C:\Users\mypc\source\repos\ConsoleApplications\SystemObject\bin\Debug\SystemObject.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\SystemObject\obj\Debug\SystemObject.exe
+C:\Users\mypc\source\repos\ConsoleApplications\SystemObject\obj\Debug\SystemObject.pdb

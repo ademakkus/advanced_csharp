@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\VariableDefaultValue\bin\Debug\VariableDefaultValue.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\VariableDefaultValue\bin\Debug\VariableDefaultValue.exe
+C:\Users\mypc\source\repos\ConsoleApplications\VariableDefaultValue\bin\Debug\VariableDefaultValue.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\VariableDefaultValue\obj\Debug\VariableDefaultValue.exe
+C:\Users\mypc\source\repos\ConsoleApplications\VariableDefaultValue\obj\Debug\VariableDefaultValue.pdb

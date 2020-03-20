@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\VariableMinMaxValues\bin\Debug\VariableMinMaxValues.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\VariableMinMaxValues\bin\Debug\VariableMinMaxValues.exe
+C:\Users\mypc\source\repos\ConsoleApplications\VariableMinMaxValues\bin\Debug\VariableMinMaxValues.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\VariableMinMaxValues\obj\Debug\VariableMinMaxValues.exe
+C:\Users\mypc\source\repos\ConsoleApplications\VariableMinMaxValues\obj\Debug\VariableMinMaxValues.pdb

@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\System.String_Methods\bin\Debug\System.String_Methods.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\System.String_Methods\bin\Debug\System.String_Methods.exe
+C:\Users\mypc\source\repos\ConsoleApplications\System.String_Methods\bin\Debug\System.String_Methods.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\System.String_Methods\obj\Debug\System.String_Methods.exe
+C:\Users\mypc\source\repos\ConsoleApplications\System.String_Methods\obj\Debug\System.String_Methods.pdb
