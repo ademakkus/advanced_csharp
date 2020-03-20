@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\16_CheckedKeyword\bin\Debug\16_CheckedKeyword.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\16_CheckedKeyword\bin\Debug\16_CheckedKeyword.exe
+C:\Users\mypc\source\repos\ConsoleApplications\16_CheckedKeyword\bin\Debug\16_CheckedKeyword.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\16_CheckedKeyword\obj\Debug\16_CheckedKeyword.exe
+C:\Users\mypc\source\repos\ConsoleApplications\16_CheckedKeyword\obj\Debug\16_CheckedKeyword.pdb
