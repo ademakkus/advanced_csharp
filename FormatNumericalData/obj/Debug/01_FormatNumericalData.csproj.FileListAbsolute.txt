@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\ConsoleApplications\FormatNumericalData\bin\Debug\FormatNumericalData.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\FormatNumericalData\bin\Debug\FormatNumericalData.exe
+C:\Users\mypc\source\repos\ConsoleApplications\FormatNumericalData\bin\Debug\FormatNumericalData.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\FormatNumericalData\obj\Debug\FormatNumericalData.exe
+C:\Users\mypc\source\repos\ConsoleApplications\FormatNumericalData\obj\Debug\FormatNumericalData.pdb
