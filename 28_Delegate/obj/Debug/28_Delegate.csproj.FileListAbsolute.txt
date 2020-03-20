@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\28_Delegate\bin\Debug\28_Delegate.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\28_Delegate\bin\Debug\28_Delegate.exe
+C:\Users\mypc\source\repos\ConsoleApplications\28_Delegate\bin\Debug\28_Delegate.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\28_Delegate\obj\Debug\28_Delegate.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\28_Delegate\obj\Debug\28_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\28_Delegate\obj\Debug\28_Delegate.exe
+C:\Users\mypc\source\repos\ConsoleApplications\28_Delegate\obj\Debug\28_Delegate.pdb

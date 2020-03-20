@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\24_EnvironmentProperties\bin\Debug\24_EnvironmentProperties.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\24_EnvironmentProperties\bin\Debug\24_EnvironmentProperties.exe
+C:\Users\mypc\source\repos\ConsoleApplications\24_EnvironmentProperties\bin\Debug\24_EnvironmentProperties.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\24_EnvironmentProperties\obj\Debug\24_EnvironmentProperties.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\24_EnvironmentProperties\obj\Debug\24_EnvironmentProperties.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\24_EnvironmentProperties\obj\Debug\24_EnvironmentProperties.exe
+C:\Users\mypc\source\repos\ConsoleApplications\24_EnvironmentProperties\obj\Debug\24_EnvironmentProperties.pdb

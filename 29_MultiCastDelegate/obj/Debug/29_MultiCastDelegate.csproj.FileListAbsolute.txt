@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\29_MultiCastDelegate\bin\Debug\29_MultiCastDelegate.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\29_MultiCastDelegate\bin\Debug\29_MultiCastDelegate.exe
+C:\Users\mypc\source\repos\ConsoleApplications\29_MultiCastDelegate\bin\Debug\29_MultiCastDelegate.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\29_MultiCastDelegate\obj\Debug\29_MultiCastDelegate.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\29_MultiCastDelegate\obj\Debug\29_MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\29_MultiCastDelegate\obj\Debug\29_MultiCastDelegate.exe
+C:\Users\mypc\source\repos\ConsoleApplications\29_MultiCastDelegate\obj\Debug\29_MultiCastDelegate.pdb

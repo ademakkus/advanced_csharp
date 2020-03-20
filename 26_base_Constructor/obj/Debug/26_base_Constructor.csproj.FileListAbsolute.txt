@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\26_base_Constructor\bin\Debug\26_base_Constructor.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\26_base_Constructor\bin\Debug\26_base_Constructor.exe
+C:\Users\mypc\source\repos\ConsoleApplications\26_base_Constructor\bin\Debug\26_base_Constructor.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\26_base_Constructor\obj\Debug\26_base_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\26_base_Constructor\obj\Debug\26_base_Constructor.exe
+C:\Users\mypc\source\repos\ConsoleApplications\26_base_Constructor\obj\Debug\26_base_Constructor.pdb
