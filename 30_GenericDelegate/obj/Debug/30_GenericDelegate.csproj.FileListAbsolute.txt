@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\30_GenericDelegate\obj\Debug\30_GenericDelegate.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\30_GenericDelegate\obj\Debug\30_GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\30_GenericDelegate\bin\Debug\30_GenericDelegate.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\30_GenericDelegate\bin\Debug\30_GenericDelegate.exe
+C:\Users\mypc\source\repos\ConsoleApplications\30_GenericDelegate\bin\Debug\30_GenericDelegate.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\30_GenericDelegate\obj\Debug\30_GenericDelegate.exe
+C:\Users\mypc\source\repos\ConsoleApplications\30_GenericDelegate\obj\Debug\30_GenericDelegate.pdb

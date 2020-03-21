@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\32_Func_With_Anonymous_Method\bin\Debug\32_Func_With_Anonymous_Method.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\32_Func_With_Anonymous_Method\bin\Debug\32_Func_With_Anonymous_Method.exe
+C:\Users\mypc\source\repos\ConsoleApplications\32_Func_With_Anonymous_Method\bin\Debug\32_Func_With_Anonymous_Method.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\32_Func_With_Anonymous_Method\obj\Debug\32_Func_Delegate.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\32_Func_With_Anonymous_Method\obj\Debug\32_Func_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\32_Func_With_Anonymous_Method\obj\Debug\32_Func_With_Anonymous_Method.exe
+C:\Users\mypc\source\repos\ConsoleApplications\32_Func_With_Anonymous_Method\obj\Debug\32_Func_With_Anonymous_Method.pdb

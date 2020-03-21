@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\34_Func_Lambda_Expression\bin\Debug\34_Func_Lambda_Expression.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\34_Func_Lambda_Expression\bin\Debug\34_Func_Lambda_Expression.exe
+C:\Users\mypc\source\repos\ConsoleApplications\34_Func_Lambda_Expression\bin\Debug\34_Func_Lambda_Expression.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\34_Func_Lambda_Expression\obj\Debug\34_Func_Lambda_Expression.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\34_Func_Lambda_Expression\obj\Debug\34_Func_Lambda_Expression.exe
+C:\Users\mypc\source\repos\ConsoleApplications\34_Func_Lambda_Expression\obj\Debug\34_Func_Lambda_Expression.pdb

@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\33_Func_With_Anonymous_Method\bin\Debug\33_Func_With_Anonymous_Method.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\33_Func_With_Anonymous_Method\bin\Debug\33_Func_With_Anonymous_Method.exe
+C:\Users\mypc\source\repos\ConsoleApplications\33_Func_With_Anonymous_Method\bin\Debug\33_Func_With_Anonymous_Method.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\33_Func_With_Anonymous_Method\obj\Debug\33_Func_With_Anonymous_Method.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\33_Func_With_Anonymous_Method\obj\Debug\33_Func_With_Anonymous_Method.exe
+C:\Users\mypc\source\repos\ConsoleApplications\33_Func_With_Anonymous_Method\obj\Debug\33_Func_With_Anonymous_Method.pdb
