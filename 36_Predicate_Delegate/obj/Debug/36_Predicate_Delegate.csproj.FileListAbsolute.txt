@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\36_Predicate_Delegate\bin\Debug\36_Predicate_Delegate.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\36_Predicate_Delegate\bin\Debug\36_Predicate_Delegate.exe
+C:\Users\mypc\source\repos\ConsoleApplications\36_Predicate_Delegate\bin\Debug\36_Predicate_Delegate.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\36_Predicate_Delegate\obj\Debug\36_Predicate_Delegate.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\36_Predicate_Delegate\obj\Debug\36_Predicate_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\36_Predicate_Delegate\obj\Debug\36_Predicate_Delegate.exe
+C:\Users\mypc\source\repos\ConsoleApplications\36_Predicate_Delegate\obj\Debug\36_Predicate_Delegate.pdb
