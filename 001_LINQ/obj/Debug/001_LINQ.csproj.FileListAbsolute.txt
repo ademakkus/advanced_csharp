@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\001_LINQ\bin\Debug\001_LINQ.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\001_LINQ\bin\Debug\001_LINQ.exe
+C:\Users\mypc\source\repos\ConsoleApplications\001_LINQ\bin\Debug\001_LINQ.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\001_LINQ\obj\Debug\001_LINQ.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\001_LINQ\obj\Debug\001_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\001_LINQ\obj\Debug\001_LINQ.exe
+C:\Users\mypc\source\repos\ConsoleApplications\001_LINQ\obj\Debug\001_LINQ.pdb
