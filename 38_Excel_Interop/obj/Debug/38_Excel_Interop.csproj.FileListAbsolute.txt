@@ -1,0 +1,8 @@
+C:\Users\mypc\source\repos\ConsoleApplications\38_Excel_Interop\bin\Debug\38_Excel_Interop.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\38_Excel_Interop\bin\Debug\38_Excel_Interop.exe
+C:\Users\mypc\source\repos\ConsoleApplications\38_Excel_Interop\bin\Debug\38_Excel_Interop.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\38_Excel_Interop\obj\Debug\38_Excel_Interop.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\38_Excel_Interop\obj\Debug\38_Excel_Interop.csproj.ResolveComReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\38_Excel_Interop\obj\Debug\38_Excel_Interop.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\38_Excel_Interop\obj\Debug\38_Excel_Interop.exe
+C:\Users\mypc\source\repos\ConsoleApplications\38_Excel_Interop\obj\Debug\38_Excel_Interop.pdb
