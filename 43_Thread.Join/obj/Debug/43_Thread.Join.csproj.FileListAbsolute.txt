@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\43_Thread.Join\bin\Debug\43_Thread.Join.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\43_Thread.Join\bin\Debug\43_Thread.Join.exe
+C:\Users\mypc\source\repos\ConsoleApplications\43_Thread.Join\bin\Debug\43_Thread.Join.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\43_Thread.Join\obj\Debug\43_Thread.Join.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\43_Thread.Join\obj\Debug\43_Thread.Join.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\43_Thread.Join\obj\Debug\43_Thread.Join.exe
+C:\Users\mypc\source\repos\ConsoleApplications\43_Thread.Join\obj\Debug\43_Thread.Join.pdb

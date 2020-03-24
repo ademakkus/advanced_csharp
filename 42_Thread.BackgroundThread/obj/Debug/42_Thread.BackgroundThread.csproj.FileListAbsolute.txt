@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\42_Thread.BackgroundThread\bin\Debug\42_Thread.BackgroundThread.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\42_Thread.BackgroundThread\bin\Debug\42_Thread.BackgroundThread.exe
+C:\Users\mypc\source\repos\ConsoleApplications\42_Thread.BackgroundThread\bin\Debug\42_Thread.BackgroundThread.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\42_Thread.BackgroundThread\obj\Debug\42_Thread.BackgroundThread.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\42_Thread.BackgroundThread\obj\Debug\42_Thread.BackgroundThread.exe
+C:\Users\mypc\source\repos\ConsoleApplications\42_Thread.BackgroundThread\obj\Debug\42_Thread.BackgroundThread.pdb

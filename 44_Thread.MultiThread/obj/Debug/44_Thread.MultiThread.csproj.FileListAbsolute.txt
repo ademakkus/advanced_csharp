@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\44_Thread.MultiThread\obj\Debug\44_Thread.MultiThread.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\44_Thread.MultiThread\bin\Debug\44_Thread.MultiThread.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\44_Thread.MultiThread\bin\Debug\44_Thread.MultiThread.exe
+C:\Users\mypc\source\repos\ConsoleApplications\44_Thread.MultiThread\bin\Debug\44_Thread.MultiThread.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\44_Thread.MultiThread\obj\Debug\44_Thread.MultiThread.exe
+C:\Users\mypc\source\repos\ConsoleApplications\44_Thread.MultiThread\obj\Debug\44_Thread.MultiThread.pdb
