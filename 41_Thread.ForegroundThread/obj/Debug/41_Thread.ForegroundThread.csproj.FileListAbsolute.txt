@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\41_Thread.ForegroundThread\obj\Debug\41_Thread.ForegroundThread.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\41_Thread.ForegroundThread\obj\Debug\41_Thread.ForegroundThread.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\41_Thread.ForegroundThread\bin\Debug\41_Thread.ForegroundThread.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\41_Thread.ForegroundThread\bin\Debug\41_Thread.ForegroundThread.exe
+C:\Users\mypc\source\repos\ConsoleApplications\41_Thread.ForegroundThread\bin\Debug\41_Thread.ForegroundThread.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\41_Thread.ForegroundThread\obj\Debug\41_Thread.ForegroundThread.exe
+C:\Users\mypc\source\repos\ConsoleApplications\41_Thread.ForegroundThread\obj\Debug\41_Thread.ForegroundThread.pdb

@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\ConsoleApplications\40_Process.Google.Search\bin\Debug\40_Process.Google.Search.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\40_Process.Google.Search\bin\Debug\40_Process.Google.Search.exe
+C:\Users\mypc\source\repos\ConsoleApplications\40_Process.Google.Search\bin\Debug\40_Process.Google.Search.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\40_Process.Google.Search\obj\Debug\40_Process.Google.Search.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\40_Process.Google.Search\obj\Debug\40_Process.Google.Search.exe
+C:\Users\mypc\source\repos\ConsoleApplications\40_Process.Google.Search\obj\Debug\40_Process.Google.Search.pdb
