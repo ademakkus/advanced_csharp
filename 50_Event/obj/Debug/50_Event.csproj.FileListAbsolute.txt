@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\50_Event\bin\Debug\50_Event.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\50_Event\bin\Debug\50_Event.exe
+C:\Users\mypc\source\repos\ConsoleApplications\50_Event\bin\Debug\50_Event.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\50_Event\obj\Debug\50_Event.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\50_Event\obj\Debug\50_Event.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\50_Event\obj\Debug\50_Event.exe
+C:\Users\mypc\source\repos\ConsoleApplications\50_Event\obj\Debug\50_Event.pdb

@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\50_Regex\bin\Debug\50_Regex.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\50_Regex\bin\Debug\50_Regex.exe
+C:\Users\mypc\source\repos\ConsoleApplications\50_Regex\bin\Debug\50_Regex.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\50_Regex\obj\Debug\50_Regex.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\50_Regex\obj\Debug\50_Regex.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\50_Regex\obj\Debug\50_Regex.exe
+C:\Users\mypc\source\repos\ConsoleApplications\50_Regex\obj\Debug\50_Regex.pdb

@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\48_StreamIO.DirectoryInfo\bin\Debug\48_StreamIO.DirectoryInfo.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\48_StreamIO.DirectoryInfo\bin\Debug\48_StreamIO.DirectoryInfo.exe
+C:\Users\mypc\source\repos\ConsoleApplications\48_StreamIO.DirectoryInfo\bin\Debug\48_StreamIO.DirectoryInfo.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\48_StreamIO.DirectoryInfo\obj\Debug\48_StreamIO.DirectoryInfo_.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\48_StreamIO.DirectoryInfo\obj\Debug\48_StreamIO.DirectoryInfo_.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\48_StreamIO.DirectoryInfo\obj\Debug\48_StreamIO.DirectoryInfo.exe
+C:\Users\mypc\source\repos\ConsoleApplications\48_StreamIO.DirectoryInfo\obj\Debug\48_StreamIO.DirectoryInfo.pdb

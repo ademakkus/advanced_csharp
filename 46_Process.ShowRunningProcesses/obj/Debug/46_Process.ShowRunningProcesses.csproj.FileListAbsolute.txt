@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\46_Process.ShowRunningProcesses\obj\Debug\46_Process.ShowRunningProcesses.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\46_Process.ShowRunningProcesses\obj\Debug\46_Process.ShowRunningProcesses.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\46_Process.ShowRunningProcesses\bin\Debug\46_Process.ShowRunningProcesses.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\46_Process.ShowRunningProcesses\bin\Debug\46_Process.ShowRunningProcesses.exe
+C:\Users\mypc\source\repos\ConsoleApplications\46_Process.ShowRunningProcesses\bin\Debug\46_Process.ShowRunningProcesses.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\46_Process.ShowRunningProcesses\obj\Debug\46_Process.ShowRunningProcesses.exe
+C:\Users\mypc\source\repos\ConsoleApplications\46_Process.ShowRunningProcesses\obj\Debug\46_Process.ShowRunningProcesses.pdb
