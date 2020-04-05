@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 using static System.Console;
 using static System.ConsoleColor;
 
-namespace _53_Event_Parameterized
+namespace _54_Event_Parameterized_2
 {
 	class Program
 	{
 		static void Main(string[] args)
+
 		{
 
 			var depo = new Depo(150); ///depo.StokSayisi = 50;
@@ -20,7 +21,7 @@ namespace _53_Event_Parameterized
 			WriteLine("++++++ Stok Mal Girişi +++++");
 			depo.MalGirisi(50);
 			//
-		//	Console.WriteLine("Mevcut Stok : {0}", depo.MevcutStokSayisi);
+			//	Console.WriteLine("Mevcut Stok : {0}", depo.MevcutStokSayisi);
 			///
 			ForegroundColor = DarkRed;
 			WriteLine("------ Stok Mal Çıkışı ------");
@@ -29,15 +30,16 @@ namespace _53_Event_Parameterized
 			//WriteLine("Stok son hali : {0}", depo.MevcutStokSayisi);
 			Console.ReadKey();
 		}
-
-		private static void Depo_StokDegisti(object sender,StokDegistiEventArgs e)
+		private static void Depo_StokDegisti(object sender, StokDegistiEventArgs e)
 		{
 			ForegroundColor = DarkYellow;
-			
-			WriteLine(" !!! Stok değişti. Değişen stok miktarı : {0}",e.DegisimMiktari);
+
+			WriteLine(" !!! Stok değişti. Değişen stok miktarı : {0}", e.DegisimMiktari);
 			ForegroundColor = DarkGray;
-			WriteLine("Stok son mevcut : {0}",e.StokSayisi);
-			WriteLine("Stok değişim türü : {0}");
+			WriteLine("Stok değişim türü : {0}", e.DegisimTuru);
+			WriteLine("Stok son mevcut : {0}", e.StokSayisi);
+			ForegroundColor = DarkRed;
+			
 		}
 	}
 }
