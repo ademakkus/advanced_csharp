@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\ConsoleApplications\56_DateTime_Formats\bin\Debug\56_DateTime_Formats.exe.config
+C:\Users\mypc\source\repos\ConsoleApplications\56_DateTime_Formats\bin\Debug\56_DateTime_Formats.exe
+C:\Users\mypc\source\repos\ConsoleApplications\56_DateTime_Formats\bin\Debug\56_DateTime_Formats.pdb
+C:\Users\mypc\source\repos\ConsoleApplications\56_DateTime_Formats\obj\Debug\56_DateTime_Formats.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\ConsoleApplications\56_DateTime_Formats\obj\Debug\56_DateTime_Formats.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\ConsoleApplications\56_DateTime_Formats\obj\Debug\56_DateTime_Formats.exe
+C:\Users\mypc\source\repos\ConsoleApplications\56_DateTime_Formats\obj\Debug\56_DateTime_Formats.pdb
