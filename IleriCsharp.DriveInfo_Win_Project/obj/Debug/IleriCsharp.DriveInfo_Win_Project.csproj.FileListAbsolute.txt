@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo_Win_Project\obj\Debug\IleriCsharp.DriveInfo_Win_Project.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo_Win_Project\obj\Debug\IleriCsharp.DriveInfo_Win_Project.Form1.resources
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo_Win_Project\obj\Debug\IleriCsharp.DriveInfo_Win_Project.Properties.Resources.resources
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo_Win_Project\obj\Debug\IleriCsharp.DriveInfo_Win_Project.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo_Win_Project\obj\Debug\IleriCsharp.DriveInfo_Win_Project.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo_Win_Project\bin\Debug\IleriCsharp.DriveInfo_Win_Project.exe.config
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo_Win_Project\bin\Debug\IleriCsharp.DriveInfo_Win_Project.exe
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo_Win_Project\bin\Debug\IleriCsharp.DriveInfo_Win_Project.pdb
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo_Win_Project\obj\Debug\IleriCsharp.DriveInfo_Win_Project.exe
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo_Win_Project\obj\Debug\IleriCsharp.DriveInfo_Win_Project.pdb

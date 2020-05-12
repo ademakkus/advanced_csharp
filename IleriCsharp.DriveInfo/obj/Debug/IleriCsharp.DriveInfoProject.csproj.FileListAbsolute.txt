@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo\bin\Debug\IleriCsharp.DriveInfo.exe.config
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo\bin\Debug\IleriCsharp.DriveInfo.exe
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo\bin\Debug\IleriCsharp.DriveInfo.pdb
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo\obj\Debug\IleriCsharp.DriveInfoProject.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo\obj\Debug\IleriCsharp.DriveInfoProject.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo\obj\Debug\IleriCsharp.DriveInfo.exe
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.DriveInfo\obj\Debug\IleriCsharp.DriveInfo.pdb
