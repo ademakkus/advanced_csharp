@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.FileInfoProject\bin\Debug\IleriCsharp.FileInfoProject.exe.config
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.FileInfoProject\bin\Debug\IleriCsharp.FileInfoProject.exe
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.FileInfoProject\bin\Debug\IleriCsharp.FileInfoProject.pdb
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.FileInfoProject\obj\Debug\IleriCsharp.FileInfoProject.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.FileInfoProject\obj\Debug\IleriCsharp.FileInfoProject.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.FileInfoProject\obj\Debug\IleriCsharp.FileInfoProject.exe
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.FileInfoProject\obj\Debug\IleriCsharp.FileInfoProject.pdb
