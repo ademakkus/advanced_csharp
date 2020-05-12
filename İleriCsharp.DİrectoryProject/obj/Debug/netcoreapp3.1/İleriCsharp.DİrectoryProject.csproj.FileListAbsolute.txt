@@ -1,0 +1,13 @@
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\bin\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.exe
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\bin\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.deps.json
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\bin\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.runtimeconfig.json
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\bin\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\bin\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.dll
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\bin\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.pdb
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\obj\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\obj\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\obj\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.AssemblyInfo.cs
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\obj\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\obj\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.dll
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\obj\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.pdb
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.DİrectoryProject\obj\Debug\netcoreapp3.1\İleriCsharp.DİrectoryProject.genruntimeconfig.cache

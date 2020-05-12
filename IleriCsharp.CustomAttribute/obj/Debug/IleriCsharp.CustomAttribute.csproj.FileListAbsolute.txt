@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.CustomAttribute\obj\Debug\IleriCsharp.CustomAttribute.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.CustomAttribute\obj\Debug\IleriCsharp.CustomAttribute.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.CustomAttribute\bin\Debug\IleriCsharp.CustomAttribute.exe.config
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.CustomAttribute\bin\Debug\IleriCsharp.CustomAttribute.exe
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.CustomAttribute\bin\Debug\IleriCsharp.CustomAttribute.pdb
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.CustomAttribute\obj\Debug\IleriCsharp.CustomAttribute.exe
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\IleriCsharp.CustomAttribute\obj\Debug\IleriCsharp.CustomAttribute.pdb
