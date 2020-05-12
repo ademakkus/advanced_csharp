@@ -1,0 +1,13 @@
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.exe
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.deps.json
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.runtimeconfig.json
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.dll
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.pdb
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.AssemblyInfo.cs
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.dll
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.pdb
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\İleriCsharp.BinaryeaderProject\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryeaderProject.genruntimeconfig.cache

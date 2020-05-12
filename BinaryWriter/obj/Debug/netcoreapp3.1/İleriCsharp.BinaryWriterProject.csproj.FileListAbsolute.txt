@@ -1,0 +1,12 @@
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.exe
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.deps.json
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.runtimeconfig.json
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.dll
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\bin\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.pdb
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.AssemblyInfo.cs
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.dll
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.pdb
+C:\Users\mypc\source\repos\KocaAkademi.İleriCsharp\BinaryWriter\obj\Debug\netcoreapp3.1\İleriCsharp.BinaryWriterProject.genruntimeconfig.cache
